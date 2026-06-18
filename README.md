@@ -4,7 +4,8 @@
 
 ## OpenStudio(R) Workflow Gem
 
-This branch is the development branch for the OpenStudio workflow gem.
+This is the OpenStudio workflow gem.
+
 ## Installation
 
 The OpenStudio Workflow Gem has the following dependencies:
