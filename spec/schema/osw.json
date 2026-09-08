@@ -122,6 +122,9 @@
 							},
 							"no_space_translation": {
 								"type": "boolean"
+							},
+							"no_space_load_instances": {
+								"type": "boolean"
 							}
 						},
 						"output_adapter": {
