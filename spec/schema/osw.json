@@ -85,7 +85,7 @@
 						},
 						"skip_zip_results": {
 							"type": "boolean"
-						},            
+						},
 						"preserve_run_dir": {
 							"type": "boolean"
 						},
@@ -124,6 +124,9 @@
 								"type": "boolean"
 							},
 							"no_space_load_instances": {
+								"type": "boolean"
+							},
+							"no_construction_assignment_sets": {
 								"type": "boolean"
 							}
 						},
